@@ -1,4 +1,4 @@
-Welcome to my GitHub profile! 
+__Welcome to my GitHub profile!__ 
 
 - Hi, I’m Ruslan
 - ITMO & Hexlet student
