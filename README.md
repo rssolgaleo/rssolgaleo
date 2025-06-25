@@ -1,19 +1,21 @@
-Hi! 👋 My name is Ruslan Samigullin
-==================================
+---
 
-ITMO student | Python developer
--------------------------------
+### 👨‍💻 About Me :
 
-I am passionate about Python programming and decided to continue my studies at ITMO University. I enjoy exploring different aspects of programming and technology, constantly learning and expanding my skills in this dynamic field. I am currently on the lookout for an internship or job.
+Hi! 👋 My name is **Ruslan Samigullin**  
+I’m a Python Developer and a student at **ITMO University**.
 
-* 🌍  I'm based in Saint-Petersburg
-* ✉️  You can contact me at [ruslan.samigullin2003@gmail.com](mailto:ruslan.samigullin2003@gmail.com)
-* 🧠  I'm learning Python and its stack
-* 🤝  I'm open to collaborating on interesting projects related to Python development and web development
-* ⚡  meowmeowmeow
+- 🌍 I'm based in **Saint Petersburg, Russia**
+- 🧠 Currently learning the Python stack and expanding my development skills
+- 🤝 Open to collaboration on Python and web development projects
+- 📬 How to reach me: [ruslan.samigullin2003@gmail.com](mailto:ruslan.samigullin2003@gmail.com)
+- 🚀 Actively looking for an **internship or job**
+- ⚡ Fun fact: *meowmeowmeow*
 
-<a href="https://www.github.com/rssolgaleo" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/rssolgaleo?logo=github&style=for-the-badge&color=000000&labelColor=ffffff" /></a>
+<a href="https://www.github.com/rssolgaleo" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/github/followers/rssolgaleo?logo=github&style=for-the-badge&color=000000&labelColor=ffffff" />
+</a>
+
 
 ### Skills
 
@@ -30,9 +32,6 @@ src="https://img.shields.io/github/followers/rssolgaleo?logo=github&style=for-th
 ### Badges
 
 <b>Top Repositories</b>
-
-<b>Top Repositories</b>
-
 <div width="100%" align="center">
   <a href="https://github.com/rssolgaleo/Brain-Games" align="right">
     <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rssolgaleo&repo=Brain-Games&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff&hide_border=true&locale=en" />
