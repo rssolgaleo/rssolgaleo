@@ -25,7 +25,7 @@ I’m a Python Developer and a student at **ITMO University**.
 
 ### 🛠️ Languages and Tools :
 
-<div align="center" style="background-color:#1e1e1e; padding: 20px; border-radius: 10px; width: fit-content; margin: auto; box-shadow: 0 0 10px rgba(0,0,0,0.3);">
+<div align="center" style="background-color: #ffffff; padding: 20px; border-radius: 12px; width: fit-content; margin: auto; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" title="Django" alt="Django" width="50" height="50"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="50" height="50"/>&nbsp;
