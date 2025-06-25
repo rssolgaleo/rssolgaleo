@@ -54,29 +54,18 @@ I’m a Python Developer and a student at **ITMO University**.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rssolgaleo&layout=compact&theme=default" alt="Top Languages"/>
 </p>
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com/rssolgaleo" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/rssolgaleo" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a></p>
+### 📫 How to reach me
 
-### Badges
-
-<b>Top Repositories</b>
-<div width="100%" align="center">
-  <a href="https://github.com/rssolgaleo/Brain-Games" align="right">
-    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rssolgaleo&repo=Brain-Games&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff&hide_border=true&locale=en" />
+<p align="center">
+  <a href="https://www.instagram.com/rssolgaleo" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://github.com/rssolgaleo/Difference-Finder" align="left">
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rssolgaleo&repo=Difference-Finder&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff&hide_border=true&locale=en" />
+  <a href="https://github.com/rssolgaleo" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-</div>
-<br /><br /><br /><br /><br /><br /><br />
-
-<div width="100%" align="center">
-  <a href="https://github.com/rssolgaleo/Page-Analyzer" align="left">
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rssolgaleo&repo=Page-Analyzer&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff&hide_border=true&locale=en" />
+  <a href="mailto:ruslan.samigullin2003@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://github.com/rssolgaleo/Task-Manager" align="right">
-    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rssolgaleo&repo=Task-Manager&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff&hide_border=true&locale=en" />
-  </a>
-</div>
-<br /><br /><br /><br /><br /><br /><br />
+</p>
